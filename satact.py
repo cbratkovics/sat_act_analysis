@@ -66,6 +66,20 @@ def convert_to_float(df):
     df[features] = df[features].astype(float)
     return df
     
+def half_of_both(df, sat_col, act_col, greater_than = True):
+    if greater_than == False:
+        return df[(df[sat_col] < 50.0) & (df[act_col] < 50.0)]['state']
+    else:
+        return df[(df[sat_col] > 50.0) & (df[act_col] > 50.0)]['state']
+    
+def perfect_scores(df, col_1, col_2):
+    return df[(df[col_1] == 100.0) & (df[col_2] == 100.0)]['state']
+
+def top_averages(df, col):
+    return df[df[col] > (df[col].mean() + df[col].std())]['state']
+
+def worst_averages(df, col):
+    return df[df[col] < (df[col].mean() - df[col].std())]['state']
     
     
     
