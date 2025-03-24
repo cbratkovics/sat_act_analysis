@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Tutorial in Python
 
-![EDA Banner](https://upload.wikimedia.org/wikipedia/commons/e/ed/Data_science_process.png)
+📖 **Read the full article on Medium**: [Exploratory Data Analysis Tutorial in Python](https://medium.com/@cbratkovics/exploratory-data-analysis-tutorial-in-python-abc123)
 
 ## Overview
 Exploratory Data Analysis (EDA) is one of the most important skills that every Data Scientist must master. It is essential for ensuring the integrity of your gathered data and the validity of your analysis.
@@ -76,5 +76,3 @@ We recommend working in a Jupyter Notebook environment for maximum interactivity
 
 ## Let's Explore!
 Dive into the notebook and start exploring SAT and ACT data using Python. Visualize trends, compare states, and extract meaningful patterns using simple, reproducible steps.
-
-
