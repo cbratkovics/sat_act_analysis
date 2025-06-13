@@ -23,7 +23,7 @@ By the end of this tutorial, you will:
   - 📈 Gain insights into standardized testing disparities.
   - 🐍 Master core EDA techniques in Python.
 
-> **Note**: This tutorial is perfect for Python programmers looking to sharpen their data handling, analysis, and visualization skills.
+> **Note**: This tutorial is perfect for new Python programmers looking to sharpen their data handling, analysis, and visualization skills.
 
 -----
 
