@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://medium.com/data-science/exploratory-data-analysis-tutorial-in-python-15602b417445" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20on-Medium-black?style=for-the-badge&logo=medium" alt="Read on Medium">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium">
   </a>
   <a href="https://github.com/cbratkovics/sat_act_analysis" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-lightgrey?style=for-the-badge&logo=github" alt="View on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
   </a>
 </p>
 
