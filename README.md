@@ -1,13 +1,13 @@
 # 📊 Exploratory Data Analysis Tutorial in Python
 
-\<p align="center"\>
-\<a href="[suspicious link removed]" target="\_blank"\>
-\<img src="[suspicious link removed]" alt="Read on Medium"\>
-\</a\>
-\<a href="[https://github.com/cbratkovics/sat\_act\_analysis](https://github.com/cbratkovics/sat_act_analysis)" target="\_blank"\>
-\<img src="[suspicious link removed]" alt="View on GitHub"\>
-\</a\>
-\</p\>
+<p align="center">
+  <a href="https://medium.com/data-science/exploratory-data-analysis-tutorial-in-python-15602b417445" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20on-Medium-black?style=for-the-badge&logo=medium" alt="Read on Medium">
+  </a>
+  <a href="https://github.com/cbratkovics/sat_act_analysis" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-lightgrey?style=for-the-badge&logo=github" alt="View on GitHub">
+  </a>
+</p>
 
 -----
 
